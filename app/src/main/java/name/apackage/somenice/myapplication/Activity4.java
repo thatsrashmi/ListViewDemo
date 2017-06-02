@@ -19,7 +19,8 @@ public class Activity4 extends AppCompatActivity {
     };
 
     public void listView(){
-        list_view= (ListView)findViewById(R.id.)
+        list_view= (ListView)findViewById(R.id.listviewmain);
+
     }
     @Override
     protected void onCreate(Bundle savedInstanceState) {
